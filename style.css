@@ -10,6 +10,7 @@ body {
   background-position: center center;
   margin: 0;
   padding: 0;
+  touch-action: none;
 }
 
 .paper {
@@ -24,6 +25,7 @@ body {
   position: absolute;
   max-width: 80vw;
   width: auto;
+  touch-action: none;
 }
 
 .paper.heart {
